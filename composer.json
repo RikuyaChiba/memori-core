@@ -1,0 +1,11 @@
+{
+    "name": "chibarikuya/memori-core",
+    "description": "Database relevant file for memori app",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Chibarikuya\\MemoriCore\\": "src/"
+        }
+    },
+    "require": {}
+}
